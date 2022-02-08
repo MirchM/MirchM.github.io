@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "title": "Calculator iOS",
+      "shortDesc": "The iOS Calculator now on Android",
+      "desc": "The iOS Calculator now on Android, Wartungstätigkeit und Bug Fixing mit Hilfe von Kundenfeedback. Letztes Release: Null Crashes pro Tausend Benutzer. mXparser Library Verwendung für Rechnen-Funktionalität. Java Entwicklung des Android-Apps. Benutzeroberfläche und Funktionalität gleich der iPhone-Rechner-Anwendung, über 4.5k aktive Benutzer",
+      "featureTitle": "Features:",
+      "features": [
+        "Simple and Useful",
+        "Button Animations, Button Sounds",
+        "Scalable Layout, use it on every phone or tablet",
+        "Copy and Paste with the native Clipboard"
+      ],
+      "accessTitle": "Download it now on",
+      "accessLink": "https://play.google.com/store/apps/details?id=com.MMISoft.android.abc",
+      "img": "/images/image1.png",
+      "images": [
+        {
+          "url": "/images/image1.png"
+        },
+        {
+          "url": "/images/ioscalculator/ioscalculatoricon.png"
+        }
+      ],
+      "privacyPolicy": "https://docs.google.com/document/d/1X_qPSDu7I-LbxMH9igHB3wu6LgbREW0U89CLaYnlrlA/edit?usp=sharing",
+      "category": "android",
+      "id": "ios-calculator"
+    },
+    {
+      "title": "MMIRadio",
+      "shortDesc": "Radio stream player for android with a complete service and navigation",
+      "desc": "The iOS Calculator now on Android, Wartungstätigkeit und Bug Fixing mit Hilfe von Kundenfeedback. Letztes Release: Null Crashes pro Tausend Benutzer. mXparser Library Verwendung für Rechnen-Funktionalität. Java Entwicklung des Android-Apps. Benutzeroberfläche und Funktionalität gleich der iPhone-Rechner-Anwendung, über 4.5k aktive Benutzer",
+      "featureTitle": "Features:",
+      "features": [
+        "Simple and Useful",
+        "Button Animations, Button Sounds",
+        "Scalable Layout, use it on every phone or tablet",
+        "Copy and Paste with the native Clipboard"
+      ],
+      "accessTitle": "Download it now on",
+      "accessLink": "https://play.google.com/store/apps/details?id=com.MMISoft.android.abc",
+      "privacyPolicy": "https://docs.google.com/document/d/1X_qPSDu7I-LbxMH9igHB3wu6LgbREW0U89CLaYnlrlA/edit?usp=sharing",
+      "category": "android",
+      "img": "/images/image1.png",
+      "images": [
+        {
+          "url": "/images/image1.png"
+        },
+        {
+          "url": "/images/ioscalculator/ioscalculatoricon.png"
+        }
+      ],
+      "id": "mmiradio"
+    },
+    {
+      "title": "Weather Forecast",
+      "shortDesc": "Weather Forecast Live through an API Call",
+      "desc": "Eine in React entwickelte Webanwendung, die Wettervorhersage für ausgewählter Ort über einen API-Aufruf anzeigt",
+      "category": "web",
+      "images": [
+        {
+          "url": "/images/image1.png"
+        },
+        {
+          "url": "/images/ioscalculator/ioscalculatoricon.png"
+        }
+      ],
+      "id": "weatherForecast-react"
+    },
+    {
+      "title": "asdaff",
+      "desc": "Radio stream player for android with a complete service and navigation",
+      "img": "",
+      "category": "android",
+      "id": 4
+    }
+  ]
+}
